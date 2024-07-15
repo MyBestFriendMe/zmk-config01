@@ -1,4 +1,4 @@
-if SHIELD_MY_BOARD
+if SHIELD_GAMETEST
 
 config ZMK_KEYBOARD_NAME
     default "GameTest"
